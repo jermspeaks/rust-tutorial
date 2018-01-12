@@ -1,8 +1,9 @@
 // Mutability
+// Variable declarations are by default immutable
 // fn main() {
 //     let mut x = 5;
 //     println!("The value of x is: {}", x);
-//     x = 6;
+//     x = 6; // because of "mut", you can change the value
 //     println!("The value of x is: {}", x);
 // }
 
