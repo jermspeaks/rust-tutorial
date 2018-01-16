@@ -17,8 +17,8 @@ fn main() {
 	// 64-bit	i64		u64
 	// arch		isize	usize
 
-	// Signed: positive only (like indexing)
-	// Unsigned: positive and negative
+	// Unsigned: positive only (like indexing)
+	// Signed: positive and negative e.g. "i8" is -128..128
 
     // 2. Floating-point
 
